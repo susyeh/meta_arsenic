@@ -14,8 +14,8 @@ ProjectID: mgp2592
 
 #### 3. Mangrove
 ProjectID: mgp11628
-* Sample1:
-* Sample2:
+* Sample1: mgm4603402.3; fastq file, has the most bp, 3.65% failed QC
+* Sample2: mgm4603270.3; fastq file, has the 2nd most bp, 3.1% failed QC
 * Metadata from this project
 
 #### 4. Permafrost_Russia
@@ -28,4 +28,22 @@ ProjectID: mgp7176
 ProjectID: mgp6377
 * Sample1: mgm4539575.3; fastq file, has the most bp, 14% failed QC
 * Sample2: mgm4539572.3; fastq file, has the 2nd most bp, 14% failed QC
+* Metadata from this project
+
+### 6. Brazilian_forest
+ProjectID: mgp3731
+* Sample1: mgm4546395.3; fastq file, has the most bp, 7% failed QC
+* Sample2: mgm4536139.3; fast1 file, has the 2nd most bp, 9% failed QC
+* Metadata from this project
+
+### 7. Illinois_soybean
+ProjectID: mgp2076
+* Sample1: mgm4502542.3; fastq file, has the most bp, 26% failed QC
+* Sample2: mgm4502540.3; fastq file, has the 2nd most bp, 11% failed QC
+* Metadata from this project
+
+### 8. Minnesota_creek
+ProjectID: mgp5588
+* Sample1: mgm4541646.3; fastq file, has the most bp, 2.55% failed QC
+* Sample2:mgm4541645.3; fastq file, has the 2nd most bp, 2.58% failed QC
 * Metadata from this project
