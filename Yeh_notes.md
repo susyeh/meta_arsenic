@@ -47,3 +47,45 @@ ProjectID: mgp5588
 * Sample1: mgm4541646.3; fastq file, has the most bp, 2.55% failed QC
 * Sample2:mgm4541645.3; fastq file, has the 2nd most bp, 2.58% failed QC
 * Metadata from this project
+
+### 9. Disney_preserve
+ProjectID: mgp13948
+* Sample1: mgm4664918.3; fastq file, most bp, .05% failed QC
+* Sample2: mgm4664925.3; fastq file, 2nd most bp, 
+* Metadata from this project
+
+### 10. California_grassland
+ProjectID: mgp1992
+* Sample1: mgm4511061.3; fastq file, most bp, 19% failed QC
+* Sample2: mgm4511115.3; fastq file, 2nd most bp, 10% failed QC
+* Metadata from this project
+
+### Note: China_soil files are all in fna format so I did not download
+ProjectID: mgp13205
+
+### Note: Permafrost_USA files are all in fq or fna files, so I did not download
+ProjectID: mgp11953
+
+### 11. Illinois_soil
+ProjectID: mgp14596
+* Sample1: mgm4653791.3; fastq file, most bp, .05% failed QC
+* Sample2: mgm4653788.3; fastq file, 2nd most bp, .06% failed QC
+* Metadata for this project
+
+### 12. Wyoming_soil
+ProjectID: mgp15600
+* Sample1: mgm4670122.3; fastq file, most bp, 6% failed QC
+* Sample2: mgm4670120.3; fastq file, 2nd most bp, 6% failed QC
+* Metadata for this project
+
+### 13. Permafrost_Canada
+ProjectID: mgp252
+* Sample1: mgm4523778.3; fastq file, most bp, 8% failed QC
+* Sample2: mgm4523023.3; fastq file, 2nd most bp, 10% failed QC
+* Metadata for this project
+
+### Note: Contaminated_Canada files are all in fna format, so I did not download
+ProjectID: mgp79868
+
+### Note: Contaminated_China file is in fna format, so I did not download
+ProjectID: mgp13736
